@@ -1,2 +1,25 @@
 # Stock-Analysis
-Using VBA to create powerful spreadsheets
+## Project Overview
+
+
+### Purpose
+
+
+
+## Analysis and Challenges
+
+
+
+### Analysis of Outcomes Based on Launch Date
+
+
+
+### Analysis of Outcomes Based on Goals
+
+
+
+### Challenges and Difficulties Encountered
+
+
+
+## Results
