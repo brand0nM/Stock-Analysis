@@ -9,9 +9,6 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
 
 
 ## Analysis and Challenges
-![Code_1](https://user-images.githubusercontent.com/79609464/160476941-31fbdf6c-5c58-4165-a031-a9077fe0d463.png)
-![Code_2](https://user-images.githubusercontent.com/79609464/160476952-2b173985-23a8-4b5d-8a32-82add60b9059.png)
-
 
 
 ### Analysis of 2017
