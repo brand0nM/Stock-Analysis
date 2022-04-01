@@ -8,17 +8,17 @@ To do this, we'll refactor the previous solution to loop over our data, collecti
 ## Analysis and Challenges
 
 ### Analysis of 2017
-
-<img width="900" alt="My_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325213-37ac4302-e97d-4a63-90a1-4041ebc8902f.png"> Refactored <br />
-<br />
-<img width="870" alt="Their_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325218-cc353230-52d9-4f30-82c9-96a4d9cdf88a.png"> Original <br />
+#### Refactored
+<img width="900" alt="My_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325213-37ac4302-e97d-4a63-90a1-4041ebc8902f.png">
+#### Original
+<img width="870" alt="Their_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325218-cc353230-52d9-4f30-82c9-96a4d9cdf88a.png"> 
 
 
 ### Analysis of 2018
-
-<img width="840" alt="My_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325283-0f32a60e-d7a1-4dee-8db4-6ab707cf6143.png"> Refactored <br />
-<br />
-<img width="870" alt="Their_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325285-ae38ef3c-58db-4e2b-9b0c-603ad5564fd0.png"> Original <br />
+#### Refactored
+<img width="840" alt="My_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325283-0f32a60e-d7a1-4dee-8db4-6ab707cf6143.png">
+#### Original 
+<img width="870" alt="Their_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325285-ae38ef3c-58db-4e2b-9b0c-603ad5564fd0.png"> 
 
 We can observe from the 
 ### Challenges and Difficulties Encountered
