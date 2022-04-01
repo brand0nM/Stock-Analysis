@@ -28,3 +28,6 @@ Though my refactored code is 5-6 times slower than our previous code, this is pr
 
 ### Challenges and Difficulties Encountered
 Data types in VBA are not as intuive as a python; for example, adding an element to an array is much more involved than python. In python we simply declare an empty list or dictionary and append unique values to it, but in VBA we must declare the dimensions and whether or not we want to preserve those dimensions. 
+
+## Summary
+The refactored code has some advantages and disadvantages compared to its previous version. The most obvious advantage is that we no longer have to spend 10's of hours mannually coding every ticker name to our Tickers() array- verifying that we typed those correctly; instead we can let the computer do that work and search the ticker column for unique ticker names. The biggest disadvantage is that every ticker element must be indexed over our dataframe. As we get 1000's of data points this operation may take a few minutes.
