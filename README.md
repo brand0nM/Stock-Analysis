@@ -1,20 +1,20 @@
 # Stock-Analysis
 ## Project Overview
-Previously I created a workbook that can analyze a dozen stocks using VBA; Now I wants to expand this dataset to include the entire stock market over the last few years.
+Previously I created a workbook that can analyze a dozen stocks using VBA; Now I wants to expand this dataset to include the entire stock market over the last couple years.
 
 ### Purpose
-To do this we'll refactor the previous solution to loop through our data, collect unique ticker names, and determine their volume/annual growth rate. Then, we’ll determine whether refactoring our code successfully made the VBA script run faster. The primary goal of this refactor is to avoid hard-coding every element to our Tickers() array. 
+To do this, we'll refactor the previous solution to loop over our data, collecting unique ticker names, then determine their volume/annual growth rate. Finally, we’ll determine whether refactoring our code was successful in making the VBA script run faster; The primary goal of this refactor is to avoid hard-coding every element to our Tickers() array- that would take exponentially more time than merely sorting the dataset twice. 
 
 ## Analysis and Challenges
 ### Analysis of 2017
-This was my <br />
+
 <img width="900" alt="My_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325213-37ac4302-e97d-4a63-90a1-4041ebc8902f.png"><br />
 <br />
 <img width="870" alt="Their_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325218-cc353230-52d9-4f30-82c9-96a4d9cdf88a.png"><br />
 
 
 ### Analysis of 2018
-This was my <br />
+
 <img width="840" alt="My_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325283-0f32a60e-d7a1-4dee-8db4-6ab707cf6143.png"><br />
 <br />
 <img width="870" alt="Their_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325285-ae38ef3c-58db-4e2b-9b0c-603ad5564fd0.png"><br />
