@@ -3,7 +3,7 @@
 Previously I created a workbook that can analyze a dozen stocks using VBA; Now I wants to expand this dataset to include the entire stock market over the last couple years.
 
 ### Purpose
-To do this, we'll refactor the previous solution to loop over our data, collecting unique ticker names, then determine their volume/annual growth rate. Finally, we’ll determine whether refactoring our code was successful in making the VBA script run faster; a secondary goal of this refactor is to avoid hard-coding every element to our Tickers() array- this would take exponentially more time with thousands of ticker names. 
+To do this, we'll refactor the previous solution to first collect unique ticker names, then determine their volume/annual growth rate. Finally, we’ll determine whether refactoring our code was successful in making the VBA script run faster; a secondary goal of this refactor is to avoid hard-coding every element to our Tickers() array- this would take exponentially more time with thousands of ticker names. 
 
 ## Analysis
 
