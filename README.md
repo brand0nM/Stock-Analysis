@@ -1,12 +1,9 @@
 # Stock-Analysis
 ## Project Overview
-Steve loves the workbook you prepared for him. At the click of a button, he can analyze an entire dataset. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although your code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
+We've already created a workbook that can analyze a dozen stocks or so stocks using VBA; Now we wants to expand this dataset to include the entire stock market over the last few years.
 
 ### Purpose
-In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
-
-Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
-
+In this challenge we'll refactor our previous solution to loop through all the data one time in order to collect the same information that you did in this module. Then, we’ll determine whether refactoring our code successfully made the VBA script run faster. When refactoring code, we want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. 
 
 ## Analysis and Challenges
 
@@ -23,7 +20,7 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
 
 
 ### Challenges and Difficulties Encountered
-
-
+Data types in VBA are not as intuive as a python; for example, simply adding an element to an array is much more involved than python. In python we can simply declare an empty list or dictionary and append unique values to it, but in VBA we must declare the dimensions and whether or not we want to preserve those dimensions. Both can do similar things, but python would have taken 3 line of code, where this took 10.
 
 ## Results
+Though my newly refactored code is marginally slower than our previous code, this is soley due to that fact that we aren't hard coding ticker names to the Tickers() array; Instead our code loops through the data twice, once to find unique ticker names, adding them to our array, and again to find each tickers volume and growth rate over the past year. In the long run this will save countless hours, as we no longer have to manually add tens of thousand of tickers to our array.
