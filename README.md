@@ -1,22 +1,23 @@
 # Stock-Analysis
 ## Project Overview
-We've already created a workbook that can analyze a dozen stocks or so stocks using VBA; Now we wants to expand this dataset to include the entire stock market over the last few years.
+Previously I created a workbook that can analyze a dozen stocks using VBA; Now I wants to expand this dataset to include the entire stock market over the last few years.
 
 ### Purpose
-In this challenge we'll refactor our previous solution to loop through all the data one time in order to collect the same information that you did in this module. Then, we’ll determine whether refactoring our code successfully made the VBA script run faster. When refactoring code, we want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. 
+To do this we'll refactor the previous solution to loop through our data, collect unique ticker names, and determine their volume/annual growth rate. Then, we’ll determine whether refactoring our code successfully made the VBA script run faster. The primary goal of this refactor is to avoid hard-coding every element to our Tickers() array. 
 
 ## Analysis and Challenges
-
 ### Analysis of 2017
-
-<img width="900" alt="My_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325213-37ac4302-e97d-4a63-90a1-4041ebc8902f.png">
-<img width="870" alt="Their_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325218-cc353230-52d9-4f30-82c9-96a4d9cdf88a.png">
+This was my <br />
+<img width="900" alt="My_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325213-37ac4302-e97d-4a63-90a1-4041ebc8902f.png"><br />
+<br />
+<img width="870" alt="Their_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325218-cc353230-52d9-4f30-82c9-96a4d9cdf88a.png"><br />
 
 
 ### Analysis of 2018
-
-<img width="840" alt="My_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325283-0f32a60e-d7a1-4dee-8db4-6ab707cf6143.png">
-<img width="870" alt="Their_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325285-ae38ef3c-58db-4e2b-9b0c-603ad5564fd0.png">
+This was my <br />
+<img width="840" alt="My_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325283-0f32a60e-d7a1-4dee-8db4-6ab707cf6143.png"><br />
+<br />
+<img width="870" alt="Their_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325285-ae38ef3c-58db-4e2b-9b0c-603ad5564fd0.png"><br />
 
 
 ### Challenges and Difficulties Encountered
