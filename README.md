@@ -10,7 +10,8 @@ To do this, we'll refactor the previous solution to loop over our data, collecti
 ### Analysis of 2017
 #### Refactored
 <img width="900" alt="My_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325213-37ac4302-e97d-4a63-90a1-4041ebc8902f.png">
-#### Original
+
+### Original
 <img width="870" alt="Their_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325218-cc353230-52d9-4f30-82c9-96a4d9cdf88a.png"> 
 
 
