@@ -9,16 +9,17 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
 
 
 ## Analysis and Challenges
-![Screen Shot 2022-03-29 at 9 27 20 PM](https://user-images.githubusercontent.com/79609464/160745595-c96b40a3-0e7e-48ee-8512-c1a48d712eb7.png)
-![Screen Shot 2022-03-29 at 9 27 54 PM](https://user-images.githubusercontent.com/79609464/160745598-d39ffdf5-b81b-4d46-902a-2583acfe2549.png)
-
 
 ### Analysis of 2017
 
+<img width="900" alt="My_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325213-37ac4302-e97d-4a63-90a1-4041ebc8902f.png">
+<img width="870" alt="Their_Code,2017" src="https://user-images.githubusercontent.com/79609464/161325218-cc353230-52d9-4f30-82c9-96a4d9cdf88a.png">
 
 
 ### Analysis of 2018
 
+<img width="840" alt="My_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325283-0f32a60e-d7a1-4dee-8db4-6ab707cf6143.png">
+<img width="870" alt="Their_Code,2018" src="https://user-images.githubusercontent.com/79609464/161325285-ae38ef3c-58db-4e2b-9b0c-603ad5564fd0.png">
 
 
 ### Challenges and Difficulties Encountered
